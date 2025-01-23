@@ -1,0 +1,49 @@
+2025-01-22 19:22:24.914 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-22 19:22:24.932 | INFO     | __main__:main:103 - START producer.
+2025-01-22 19:22:24.933 | INFO     | utils.utils_producer:get_zookeeper_address:57 - Zookeeper address: localhost:2181
+2025-01-22 19:22:24.948 | INFO     | utils.utils_producer:check_zookeeper_service_is_ready:79 - Zookeeper is ready at localhost:2181.
+2025-01-22 19:22:24.950 | INFO     | utils.utils_producer:get_kafka_broker_address:50 - Kafka broker address: localhost:9092
+2025-01-22 19:22:27.193 | ERROR    | utils.utils_producer:check_kafka_service_is_ready:102 - Error checking Kafka: NodeNotReadyError
+2025-01-22 19:22:27.197 | ERROR    | utils.utils_producer:verify_services:121 - Kafka broker is not ready. Please check your Kafka setup. Exiting...
+2025-01-22 19:29:29.529 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-22 19:29:29.534 | INFO     | __main__:main:103 - START producer.
+2025-01-22 19:29:29.535 | INFO     | utils.utils_producer:get_zookeeper_address:57 - Zookeeper address: localhost:2181
+2025-01-22 19:29:29.547 | INFO     | utils.utils_producer:check_zookeeper_service_is_ready:79 - Zookeeper is ready at localhost:2181.
+2025-01-22 19:29:29.548 | INFO     | utils.utils_producer:get_kafka_broker_address:50 - Kafka broker address: localhost:9092
+2025-01-22 19:29:31.793 | ERROR    | utils.utils_producer:check_kafka_service_is_ready:102 - Error checking Kafka: NodeNotReadyError
+2025-01-22 19:29:31.795 | ERROR    | utils.utils_producer:verify_services:121 - Kafka broker is not ready. Please check your Kafka setup. Exiting...
+2025-01-22 19:33:50.806 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-22 19:33:50.811 | INFO     | __main__:main:103 - START producer.
+2025-01-22 19:33:50.811 | INFO     | utils.utils_producer:get_zookeeper_address:57 - Zookeeper address: localhost:2181
+2025-01-22 19:33:50.826 | INFO     | utils.utils_producer:check_zookeeper_service_is_ready:79 - Zookeeper is ready at localhost:2181.
+2025-01-22 19:33:50.827 | INFO     | utils.utils_producer:get_kafka_broker_address:50 - Kafka broker address: localhost:9092
+2025-01-22 19:33:53.093 | ERROR    | utils.utils_producer:check_kafka_service_is_ready:102 - Error checking Kafka: NodeNotReadyError
+2025-01-22 19:33:53.094 | ERROR    | utils.utils_producer:verify_services:121 - Kafka broker is not ready. Please check your Kafka setup. Exiting...
+2025-01-22 19:44:53.023 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-22 19:44:53.028 | INFO     | __main__:main:103 - START producer.
+2025-01-22 19:44:53.028 | INFO     | utils.utils_producer:get_zookeeper_address:57 - Zookeeper address: localhost:2181
+2025-01-22 19:44:53.044 | INFO     | utils.utils_producer:check_zookeeper_service_is_ready:79 - Zookeeper is ready at localhost:2181.
+2025-01-22 19:44:53.045 | INFO     | utils.utils_producer:get_kafka_broker_address:50 - Kafka broker address: localhost:9092
+2025-01-22 19:44:55.289 | ERROR    | utils.utils_producer:check_kafka_service_is_ready:102 - Error checking Kafka: NodeNotReadyError
+2025-01-22 19:44:55.291 | ERROR    | utils.utils_producer:verify_services:121 - Kafka broker is not ready. Please check your Kafka setup. Exiting...
+2025-01-22 19:55:41.765 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-22 19:55:41.768 | INFO     | __main__:main:103 - START producer.
+2025-01-22 19:55:41.768 | INFO     | utils.utils_producer:get_zookeeper_address:57 - Zookeeper address: localhost:2181
+2025-01-22 19:55:41.778 | INFO     | utils.utils_producer:check_zookeeper_service_is_ready:79 - Zookeeper is ready at localhost:2181.
+2025-01-22 19:55:41.778 | INFO     | utils.utils_producer:get_kafka_broker_address:50 - Kafka broker address: localhost:9092
+2025-01-22 19:55:44.030 | ERROR    | utils.utils_producer:check_kafka_service_is_ready:102 - Error checking Kafka: NodeNotReadyError
+2025-01-22 19:55:44.031 | ERROR    | utils.utils_producer:verify_services:121 - Kafka broker is not ready. Please check your Kafka setup. Exiting...
+2025-01-22 20:00:57.733 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-22 20:00:57.738 | INFO     | __main__:main:103 - START producer.
+2025-01-22 20:00:57.739 | INFO     | utils.utils_producer:get_zookeeper_address:57 - Zookeeper address: localhost:2181
+2025-01-22 20:00:57.756 | INFO     | utils.utils_producer:check_zookeeper_service_is_ready:79 - Zookeeper is ready at localhost:2181.
+2025-01-22 20:00:57.763 | INFO     | utils.utils_producer:get_kafka_broker_address:50 - Kafka broker address: localhost:9092
+2025-01-22 20:01:00.011 | ERROR    | utils.utils_producer:check_kafka_service_is_ready:102 - Error checking Kafka: NodeNotReadyError
+2025-01-22 20:01:00.014 | ERROR    | utils.utils_producer:verify_services:121 - Kafka broker is not ready. Please check your Kafka setup. Exiting...
+2025-01-22 20:37:35.260 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-22 20:37:35.265 | INFO     | __main__:main:103 - START producer.
+2025-01-22 20:37:35.265 | INFO     | utils.utils_producer:get_zookeeper_address:57 - Zookeeper address: localhost:2181
+2025-01-22 20:37:35.285 | INFO     | utils.utils_producer:check_zookeeper_service_is_ready:79 - Zookeeper is ready at localhost:2181.
+2025-01-22 20:37:35.287 | INFO     | utils.utils_producer:get_kafka_broker_address:50 - Kafka broker address: localhost:9092
+2025-01-22 20:37:37.539 | ERROR    | utils.utils_producer:check_kafka_service_is_ready:102 - Error checking Kafka: NodeNotReadyError
+2025-01-22 20:37:37.541 | ERROR    | utils.utils_producer:verify_services:121 - Kafka broker is not ready. Please check your Kafka setup. Exiting...
