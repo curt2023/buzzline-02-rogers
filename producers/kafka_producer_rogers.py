@@ -65,16 +65,16 @@ def generate_messages(producer, topic, interval_secs):
 
     """
     string_list: list = [
-        "I love Python!",
-        "Kafka is awesome.",
-        "Streaming data is fun.",
-        "This is a buzz message.",
-        "Have a great day!",
+        "I have too many dogs!!",
+        "I am not going to get this project finished on time!",
+        "There is going to be a ton of snow tonight!",
+        "This parachute doesn't work!.",
+        "I fall....alot.",
     ]
     try:
         while True:
             for message in string_list:
-                logger.info(f"Generated buzz: {message}")
+                logger.info(f"Current Problem: {message}")
                 producer.send(topic, value=message)
                 logger.info(f"Sent message to topic '{topic}': {message}")
                 time.sleep(interval_secs)
