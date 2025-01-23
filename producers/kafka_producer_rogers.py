@@ -68,7 +68,7 @@ def generate_messages(producer, topic, interval_secs):
         "I have too many dogs!!",
         "I am not going to get this project finished on time!",
         "There is going to be a ton of snow tonight!",
-        "This parachute doesn't work!.",
+        "This parachute doesn't work!",
         "I fall....alot.",
     ]
     try:

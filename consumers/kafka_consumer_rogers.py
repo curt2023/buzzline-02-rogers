@@ -61,6 +61,11 @@ def process_message(message: str) -> None:
     """
     logger.info(f"Processing message: {message}")
 
+# Monitor and Alert Message
+    if "This parachute doesn't work!" in message:
+        print(f"WARNING!! WARNING!! This is a real problem!! PLEASE do not go sky diving")
+        logger.warning(f"WARNING!! WARNING!! This is a real problem!! PLEASE do not go sky diving")
+
 
 #####################################
 # Define main function for this module
